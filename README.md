@@ -16,6 +16,8 @@ Implement CRUD for reservation app
 5. Tell me about yourself (first question)
 6. Why you wanna switch the company?
 7. What is "set" in javascript
+8. What is difference between inline & inline-block
+9. What is display flex in css
 
 "rest of the questions I dont remember"
 #Backend-questions(round 1)
